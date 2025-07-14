@@ -76,6 +76,18 @@ const YoutubeAnalyzer = () => {
               </button>
             </div>
 
+            {/* AdSense Ad Unit */}
+            <div className="text-center my-4">
+              <ins
+                className="adsbygoogle"
+                style={{ display: "block" }}
+                data-ad-client="ca-pub-9093380069334790"
+                data-ad-slot="1234567890"
+                data-ad-format="auto"
+                data-full-width-responsive="true"
+              ></ins>
+            </div>
+
             {videoData && (
               <div className="mt-4">
                 <div className="d-flex justify-content-center">
