@@ -6,7 +6,7 @@ const Header = () => (
   <header className="navbar navbar-expand-lg navbar-dark bg-primary shadow">
     <div className="container-fluid">
       <Link className="navbar-brand fw-bold" to="/">
-        YouTube Analyzer
+        YTOptimize Pro
       </Link>
       <nav className="collapse navbar-collapse">
         <ul className="navbar-nav ms-auto mb-2 mb-lg-0">
